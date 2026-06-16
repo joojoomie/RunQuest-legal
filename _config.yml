@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: RunQuest
-description: Privacy Policy & Support
+description: Privacy Policy, Terms & Support
+url: https://runrpg.astralogy.org
+baseurl: ""
