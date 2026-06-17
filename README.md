@@ -27,7 +27,7 @@ Cloudflare DNS should contain:
 ```text
 Type: CNAME
 Name: runrpg
-Target: joojoomie.github.io
+Target: the GitHub Pages host shown in this repository's Pages settings
 Proxy status: DNS only
 TTL: Auto
 ```

@@ -3,3 +3,8 @@ title: RunQuest
 description: Privacy Policy, Terms & Support
 url: https://runrpg.astralogy.org
 baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
