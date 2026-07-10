@@ -1,12 +1,12 @@
 ---
-title: RunQuest Privacy Policy
+title: 跑步英雄传 (RunQuest) Privacy Policy
 ---
 
-# RunQuest 隐私政策 / Privacy Policy
+# 跑步英雄传（RunQuest）隐私政策 / Privacy Policy
 
 _Effective date / 生效日期: 2026-07-10_
 
-> RunQuest「跑步升仙计划」is gamified fitness feedback, not a medical device. It does not diagnose, treat, or give medical advice.
+> 跑步英雄传（RunQuest）is gamified fitness feedback, not a medical device. It does not diagnose, treat, or give medical advice.
 
 Legal pages:
 
@@ -16,7 +16,7 @@ Legal pages:
 
 ## 中文
 
-RunQuest（"本 App"）尊重你的隐私。本政策说明本 App 如何处理数据。
+跑步英雄传（RunQuest，下称“本 App”）尊重你的隐私。本政策说明本 App 如何处理数据。
 
 1. **本 App 自身不收集、不上传、不出售你的个人数据。** 本 App 没有自有服务器，不做用户追踪，不含广告，不接入第三方分析。与「数据到达我们」有关的仅有两个例外，均如实说明于下文：你**自愿发送的支持邮件**（第 10 条），以及本法务网站的基础设施访问日志（第 11 条）。
 2. **健康数据**：经你授权，本 App 通过 Apple HealthKit 读取跑步距离、**每日步数**、心率、**静息心率**、活动能量、体能训练数据，以及**体重与身高**；在 Apple Watch 上跑步时另读取**跑步速度**。这些数据**仅在你的设备上**用于：把运动转化为游戏进度、发放每日走路奖励（用步数）、驱动实时配速（用跑步速度）、估算卡路里（用体重）、估算步长（用身高）与计算心率区间强度（用静息心率作为 %HRR 标尺）。健康原始数据不离开你的设备，不与第三方共享，绝不用于广告或营销画像。经你授权可写回一次体能训练记录。你也可以手动填写：在「设置」中填写身高（**仅本地保存，用于步长估算，即把步数换算成步行距离**），或在「我的冒险」中填写体重（**仅本地保存，仅用于卡路里估算**）。
