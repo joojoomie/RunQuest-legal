@@ -1,6 +1,6 @@
-# RunQuest Legal
+# 跑步英雄传（RunQuest）Legal
 
-Public legal pages for RunQuest.
+Public legal pages for 跑步英雄传（RunQuest）.
 
 Canonical site:
 

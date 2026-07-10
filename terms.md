@@ -1,19 +1,19 @@
 ---
-title: RunQuest Terms of Use
+title: 跑步英雄传 (RunQuest) Terms of Use
 permalink: /terms/
 ---
 
-# RunQuest 使用条款 / Terms of Use
+# 跑步英雄传（RunQuest）使用条款 / Terms of Use
 
 _Effective date / 生效日期: 2026-07-10_
 
 ## 中文
 
-欢迎使用 RunQuest「跑步升仙计划」。使用本 App 即表示你同意以下条款。
+欢迎使用跑步英雄传（RunQuest）。使用本 App 即表示你同意以下条款。
 
 ### 1. 基本定位
 
-RunQuest 是一款把跑步反馈游戏化的 Fitness RPG。它不是医疗设备，不用于诊断、治疗、预防疾病，也不提供医疗建议。
+跑步英雄传（RunQuest）是一款把跑步反馈游戏化的 Fitness RPG。它不是医疗设备，不用于诊断、治疗、预防疾病，也不提供医疗建议。
 
 ### 2. 安全跑步
 
