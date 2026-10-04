@@ -29,7 +29,7 @@ RunQuest Plus 或其他运动分析功能可能展示最快分段配速、配速
 
 ### 5. 购买、订阅与退款
 
-RunQuest 的数字内容、非消耗型购买和 RunQuest Plus 订阅通过 Apple App Store / StoreKit 处理。付款、续期、取消和退款由 Apple 管理。
+RunQuest 的数字内容（补签券、钻石包）和 RunQuest Plus 订阅通过 Apple App Store / StoreKit 处理。付款、续期、取消和退款由 Apple 管理。
 
 - RunQuest Plus 是自动续期订阅，除非你在当前周期结束前取消，否则会自动续期。
 - 首次订阅可能提供免费试用期（如 7 天）。试用资格由 Apple 判定；试用结束后将按订阅价格自动续期，除非在此之前取消。
@@ -46,7 +46,7 @@ RunQuest 的付费内容主要提供运动洞察、便利性、复盘、收藏�
 **付费带来的优势（明确披露）：**
 
 - **RunQuest Plus 订阅**：在同一关卡内每连续跑满 1.5 公里，额外获得 1 个高级宝箱（**单场跑步最多 30 个**，即 45 公里封顶）。会员宝箱在跑步时按你当时的会员状态记录，但**在开箱／领取那一刻你的订阅仍须有效**——若届时订阅已失效，该部分会员宝箱不予发放。这会**加快**装备与材料的获取速度。
-- **付费坐骑 / 宠物**（一次性购买，也可用钻石兑换）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
+- **坐骑 / 宠物**（用钻石兑换；此前的一次性购买仍然有效）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
 - **钻石**：可用现金购买钻石包，也可通过每日登录、跑步、走路和赛季奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
 
 **我们承诺不做的事：**
@@ -155,7 +155,7 @@ Unless stated otherwise on this page, RunQuest uses [Apple's standard End User L
 
 ### 5. Purchases, subscriptions, and refunds
 
-Digital content, non-consumable purchases, and RunQuest Plus subscriptions are processed through the Apple App Store / StoreKit. Payments, renewals, cancellations, and refunds are managed by Apple.
+Digital content (streak-repair tickets, diamond packs) and RunQuest Plus subscriptions are processed through the Apple App Store / StoreKit. Payments, renewals, cancellations, and refunds are managed by Apple.
 
 - RunQuest Plus is an auto-renewable subscription and renews unless canceled before the end of the current period.
 - A free trial (for example, 7 days) may be offered for a first subscription. Trial eligibility is determined by Apple; after the trial ends, the subscription renews at the stated price unless canceled beforehand.
@@ -172,7 +172,7 @@ RunQuest's paid content primarily provides workout insights, convenience, review
 **Advantages that paying provides (explicitly disclosed):**
 
 - **RunQuest Plus subscription**: for every continuous 1.5 km run within the same stage, you receive 1 additional premium chest (**capped at 30 per run**, i.e. capped at 45 km). Plus chests are recorded during the run based on your membership status at that time, but **your subscription must still be active at the moment you open/claim them** — if it has lapsed by then, those Plus chests are not granted. This **accelerates** how quickly you obtain equipment and materials.
-- **Paid mounts / pets** (one-time purchases, also obtainable with diamonds): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
+- **Mounts / pets** (obtained with diamonds; earlier one-time purchases remain valid): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
 - **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins, running, walking, and season rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
 
 **What we commit not to do:**
