@@ -49,6 +49,6 @@ For how your support email (address, content, attachments) is used, how long it 
 
 Legal pages:
 
-- [Privacy Policy / 隐私政策](./)
+- [Privacy Policy / 隐私政策](/)
 - [Terms of Use / 使用条款](/terms/)
 - [Support / 支持](/support/)
