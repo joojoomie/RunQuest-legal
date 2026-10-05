@@ -5,7 +5,7 @@ permalink: /terms/
 
 # 跑步英雄传（RunQuest）使用条款 / Terms of Use
 
-_Effective date / 生效日期: 2026-10-12_
+_Effective date / 生效日期: 2026-10-05_
 
 ## 中文
 
@@ -36,7 +36,7 @@ RunQuest 的数字内容（补签券、钻石包）和 RunQuest Plus 订阅通�
 - 你可以在「设置 › Apple ID › 订阅」管理或取消订阅。
 - RunQuest 不接触、不保存你的完整支付信息。
 - 退款请求按 Apple App Store 的流程处理。
-- **钻石包**是消耗型购买，到账后计入你的钻石余额。如 Apple 批准某笔钻石包退款，我们会从你的余额中扣除对应数量的钻石；余额可能因此变为负数，为负时无法使用钻石，之后获得的钻石会先用于抵扣。
+- **钻石包**是消耗型购买，到账后计入你的钻石余额。收到 Apple 对某笔钻石包的退款通知后，我们会从你的余额中扣除对应数量的钻石；余额可能因此变为负数，为负时无法使用钻石，之后获得的钻石会先用于抵扣。
 - **订阅期内发放的权益**（例如每月补签券、每月赠送的外观时装）在到账后归你所有：在服务正常存续期间不会过期，也不会因你取消订阅而被收回；取消订阅后我们只是停止发放新的月度权益。**服务整体终止，或法律、平台要求的情形除外——届时依第 11 条「服务变更」处理。**
 
 ### 6. 付费边界
@@ -169,7 +169,7 @@ Digital content (streak-repair tickets, diamond packs) and RunQuest Plus subscri
 - You can manage or cancel subscriptions in Settings › Apple ID › Subscriptions.
 - RunQuest does not see or store your full payment information.
 - Refund requests follow Apple's App Store process.
-- **Diamond packs** are consumable purchases added to your diamond balance on delivery. If Apple grants a refund for a diamond pack, we deduct the corresponding diamonds from your balance. Your balance may become negative; while it is negative, diamonds cannot be spent, and diamonds you earn afterwards are applied to the shortfall first.
+- **Diamond packs** are consumable purchases added to your diamond balance on delivery. When Apple notifies the App of an approved diamond-pack refund, we deduct the corresponding diamonds from your balance. Your balance may become negative; while it is negative, diamonds cannot be spent, and diamonds you earn afterwards are applied to the shortfall first.
 - **Benefits granted during an active subscription** (for example, monthly streak-repair tickets or a monthly cosmetic outfit) are yours once delivered: while the service remains available they do not expire, and they are not revoked if you cancel. Canceling only stops future monthly grants. **This is subject to full discontinuation of the service, or to legal or platform requirements — in which case section 11 ("Service changes") applies.**
 
 ### 6. Paid-benefit boundaries
