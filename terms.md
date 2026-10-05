@@ -5,7 +5,7 @@ permalink: /terms/
 
 # 跑步英雄传（RunQuest）使用条款 / Terms of Use
 
-_Effective date / 生效日期: 2026-07-10_
+_Effective date / 生效日期: 2026-10-05_
 
 ## 中文
 
@@ -29,13 +29,14 @@ RunQuest Plus 或其他运动分析功能可能展示最快分段配速、配速
 
 ### 5. 购买、订阅与退款
 
-RunQuest 的数字内容、非消耗型购买和 RunQuest Plus 订阅通过 Apple App Store / StoreKit 处理。付款、续期、取消和退款由 Apple 管理。
+RunQuest 的数字内容（补签券、钻石包）和 RunQuest Plus 订阅通过 Apple App Store / StoreKit 处理。付款、续期、取消和退款由 Apple 管理。
 
 - RunQuest Plus 是自动续期订阅，除非你在当前周期结束前取消，否则会自动续期。
 - 首次订阅可能提供免费试用期（如 7 天）。试用资格由 Apple 判定；试用结束后将按订阅价格自动续期，除非在此之前取消。
 - 你可以在「设置 › Apple ID › 订阅」管理或取消订阅。
 - RunQuest 不接触、不保存你的完整支付信息。
 - 退款请求按 Apple App Store 的流程处理。
+- **钻石包**是消耗型购买，到账后计入你的钻石余额。收到 Apple 对某笔钻石包的退款通知后，我们会从你的余额中扣除对应数量的钻石；余额可能因此变为负数，为负时无法使用钻石，之后获得的钻石会先用于抵扣。
 - **订阅期内发放的权益**（例如每月补签券、每月赠送的外观时装）在到账后归你所有：在服务正常存续期间不会过期，也不会因你取消订阅而被收回；取消订阅后我们只是停止发放新的月度权益。**服务整体终止，或法律、平台要求的情形除外——届时依第 11 条「服务变更」处理。**
 
 ### 6. 付费边界
@@ -45,7 +46,8 @@ RunQuest 的付费内容主要提供运动洞察、便利性、复盘、收藏�
 **付费带来的优势（明确披露）：**
 
 - **RunQuest Plus 订阅**：在同一关卡内每连续跑满 1.5 公里，额外获得 1 个高级宝箱（**单场跑步最多 30 个**，即 45 公里封顶）。会员宝箱在跑步时按你当时的会员状态记录，但**在开箱／领取那一刻你的订阅仍须有效**——若届时订阅已失效，该部分会员宝箱不予发放。这会**加快**装备与材料的获取速度。
-- **付费坐骑 / 宠物**（一次性购买）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
+- **坐骑 / 宠物**（用钻石兑换；此前的一次性购买仍然有效）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
+- **钻石**：可用现金购买钻石包，也可通过每日登录与签到、跑步、走路、收集图鉴、邀请好友、RunQuest Plus 每月发放、赛季结算与赛季名次奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
 
 **我们承诺不做的事：**
 
@@ -86,6 +88,20 @@ RunQuest 的宝箱**不能用现金购买**（见第 6 节）。为保持透明�
 
 装备、外观、称号、宠物、宝箱、卡包、赛季记录和其他虚拟内容只在 RunQuest 内使用，没有现金价值，不可兑换现金，也不可在 App 外交易。我们可能为了平衡、修复问题或更新赛季内容而调整虚拟内容的表现或规则。
 
+**钻石（虚拟货币）**
+
+- 钻石没有现金价值，不能兑换现金，不能转让或在 App 外交易，也不会过期。
+- 用钻石兑换的时装和宠物不能换回钻石。
+- 钻石和其他游戏进度一样保存在设备本地（并与配对的 Apple Watch 同步）。第 9 条所述的本地数据丢失风险同样适用于钻石，包括通过购买获得的钻石；消耗型购买无法通过「恢复购买」找回。
+- 本条不影响你所在地法律赋予的消费者权利。
+
+**赛季名次奖励（活动规则）**
+
+- 赛季结束时，Game Center「本季最高战力」全球排行榜前 10 名可获：第 1 名 500 钻石 + 金奖杯 + 金色光环 + 冠军披风；第 2 名 300 钻石 + 银奖杯 + 银色光环；第 3 名 200 钻石 + 铜奖杯 + 铜色光环；第 4–10 名 50 钻石 + 赛季徽章。
+- 名次以 Game Center 的赛季终榜为准（赛季最后 30 天内须至少打开一次 App 才会上终榜）；奖励在新赛季开始 3 天后打开 App 时发到信箱，新赛季开始 30 天内未打开可能无法查到名次。须登录 Game Center。
+- 我们可移除异常或作弊成绩并相应调整名次。奖励为虚拟物品，无现金价值，不可转让或兑现。
+- 本活动由 RunQuest 开发者举办，Apple 不是赞助方，也不以任何方式参与本活动。
+
 ### 9. 本地数据与服务可用性
 
 RunQuest 当前主要在设备本地保存游戏进度、运动摘要和设置。删除 App、系统故障、设备丢失或重置可能导致本地数据丢失。Game Center、StoreKit、Apple Watch 与 iPhone 同步等系统服务由 Apple 提供，可能受 Apple 服务状态、网络、设备权限和系统版本影响。
@@ -114,7 +130,7 @@ RunQuest 在法律允许的最大范围内按“现状”和“可用”提供�
 
 ### 15. 合理使用
 
-你不得尝试作弊、篡改数据、绕过购买、攻击服务、滥用排行榜，或以可能伤害自己、他人、设备、平台或 RunQuest 的方式使用本 App。
+你不得尝试作弊、篡改数据、绕过购买、攻击服务、滥用排行榜或邀请机制，或以可能伤害自己、他人、设备、平台或 RunQuest 的方式使用本 App。通过作弊、自动化或滥用邀请获得的奖励，我们可以撤销。
 
 ### 16. 条款变更
 
@@ -146,13 +162,14 @@ Unless stated otherwise on this page, RunQuest uses [Apple's standard End User L
 
 ### 5. Purchases, subscriptions, and refunds
 
-Digital content, non-consumable purchases, and RunQuest Plus subscriptions are processed through the Apple App Store / StoreKit. Payments, renewals, cancellations, and refunds are managed by Apple.
+Digital content (streak-repair tickets, diamond packs) and RunQuest Plus subscriptions are processed through the Apple App Store / StoreKit. Payments, renewals, cancellations, and refunds are managed by Apple.
 
 - RunQuest Plus is an auto-renewable subscription and renews unless canceled before the end of the current period.
 - A free trial (for example, 7 days) may be offered for a first subscription. Trial eligibility is determined by Apple; after the trial ends, the subscription renews at the stated price unless canceled beforehand.
 - You can manage or cancel subscriptions in Settings › Apple ID › Subscriptions.
 - RunQuest does not see or store your full payment information.
 - Refund requests follow Apple's App Store process.
+- **Diamond packs** are consumable purchases added to your diamond balance on delivery. When Apple notifies the App of an approved diamond-pack refund, we deduct the corresponding diamonds from your balance. Your balance may become negative; while it is negative, diamonds cannot be spent, and diamonds you earn afterwards are applied to the shortfall first.
 - **Benefits granted during an active subscription** (for example, monthly streak-repair tickets or a monthly cosmetic outfit) are yours once delivered: while the service remains available they do not expire, and they are not revoked if you cancel. Canceling only stops future monthly grants. **This is subject to full discontinuation of the service, or to legal or platform requirements — in which case section 11 ("Service changes") applies.**
 
 ### 6. Paid-benefit boundaries
@@ -162,7 +179,8 @@ RunQuest's paid content primarily provides workout insights, convenience, review
 **Advantages that paying provides (explicitly disclosed):**
 
 - **RunQuest Plus subscription**: for every continuous 1.5 km run within the same stage, you receive 1 additional premium chest (**capped at 30 per run**, i.e. capped at 45 km). Plus chests are recorded during the run based on your membership status at that time, but **your subscription must still be active at the moment you open/claim them** — if it has lapsed by then, those Plus chests are not granted. This **accelerates** how quickly you obtain equipment and materials.
-- **Paid mounts / pets** (one-time purchases): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
+- **Mounts / pets** (obtained with diamonds; earlier one-time purchases remain valid): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
+- **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins and check-ins, running, walking, the collection codex, inviting friends, the monthly RunQuest Plus grant, season settlement, and season rank rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
 
 **What we commit not to do:**
 
@@ -203,6 +221,20 @@ We may adjust these values for game balance; if we do, we will update this page 
 
 Equipment, cosmetics, titles, pets, chests, card packs, season records, and other virtual content are for use inside RunQuest only. They have no cash value, cannot be redeemed for cash, and cannot be traded outside the App. We may adjust virtual content behavior or rules for balance, bug fixes, or season updates.
 
+**Diamonds (virtual currency)**
+
+- Diamonds have no cash value, cannot be redeemed for cash, cannot be transferred or traded outside the App, and do not expire.
+- Outfits and pets obtained with diamonds cannot be exchanged back for diamonds.
+- Like other game progress, diamonds are stored on your device (and synced with a paired Apple Watch). The local data loss risks described in section 9 also apply to diamonds, including purchased diamonds; consumable purchases cannot be recovered through "Restore Purchases."
+- This section does not affect consumer rights you have under applicable local law.
+
+**Season rank rewards (event rules)**
+
+- When a season ends, the top 10 on the Game Center global "season-best power" leaderboard receive: #1 — 500 diamonds, gold trophy, gold aura, champion cape; #2 — 300 diamonds, silver trophy, silver aura; #3 — 200 diamonds, bronze trophy, bronze aura; #4–10 — 50 diamonds and a season badge.
+- Rank comes from Game Center's final season leaderboard (open the App at least once in the season's last 30 days to be listed); rewards arrive in your mailbox when you open the App 3 or more days into the new season, and may be unavailable if you do not open it within 30 days. Game Center sign-in is required.
+- We may remove abnormal or cheated scores and adjust ranks accordingly. Rewards are virtual items with no cash value and cannot be transferred or redeemed.
+- This event is run by the RunQuest developer; Apple is not a sponsor of, and is not involved in, this event in any way.
+
 ### 9. Local data and service availability
 
 RunQuest currently stores game progress, workout summaries, and settings primarily on-device. Deleting the App, system failure, device loss, or device reset may result in loss of local data. System services such as Game Center, StoreKit, and Apple Watch/iPhone sync are provided by Apple and may depend on Apple service status, network availability, device permissions, and OS version.
@@ -231,7 +263,7 @@ This page is provided in both Chinese and English. **If there is any ambiguity o
 
 ### 15. Acceptable use
 
-You may not attempt to cheat, tamper with data, bypass purchases, attack services, abuse leaderboards, or use the App in a way that may harm yourself, others, devices, platforms, or RunQuest.
+You may not attempt to cheat, tamper with data, bypass purchases, attack services, abuse leaderboards or the invite mechanism, or use the App in a way that may harm yourself, others, devices, platforms, or RunQuest. We may revoke rewards obtained through cheating, automation, or invite abuse.
 
 ### 16. Changes to these terms
 
