@@ -277,6 +277,6 @@ For questions, contact: **[support@astralogy.org](mailto:support@astralogy.org)*
 
 Legal pages:
 
-- [Privacy Policy / 隐私政策](./)
+- [Privacy Policy / 隐私政策](/)
 - [Terms of Use / 使用条款](/terms/)
 - [Support / 支持](/support/)
