@@ -5,7 +5,7 @@ permalink: /terms/
 
 # 跑步英雄传（RunQuest）使用条款 / Terms of Use
 
-_Effective date / 生效日期: 2026-10-05_
+_Effective date / 生效日期: 2026-10-20_
 
 ## 中文
 
@@ -47,7 +47,7 @@ RunQuest 的付费内容主要提供运动洞察、便利性、复盘、收藏�
 
 - **RunQuest Plus 订阅**：在同一关卡内每连续跑满 1.5 公里，额外获得 1 个高级宝箱（**单场跑步最多 30 个**，即 45 公里封顶）。会员宝箱在跑步时按你当时的会员状态记录，但**在开箱／领取那一刻你的订阅仍须有效**——若届时订阅已失效，该部分会员宝箱不予发放。这会**加快**装备与材料的获取速度。
 - **坐骑 / 宠物**（用钻石兑换；此前的一次性购买仍然有效）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
-- **钻石**：可用现金购买钻石包，也可通过每日登录与签到、跑步、走路、收集图鉴、邀请好友、RunQuest Plus 每月发放、赛季结算与赛季名次奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
+- **钻石**：可用现金购买钻石包，也可通过每日登录与签到、跑步、走路、收集图鉴、邀请好友、RunQuest Plus 每日领取、赛季结算与赛季名次奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
 
 **我们承诺不做的事：**
 
@@ -180,7 +180,7 @@ RunQuest's paid content primarily provides workout insights, convenience, review
 
 - **RunQuest Plus subscription**: for every continuous 1.5 km run within the same stage, you receive 1 additional premium chest (**capped at 30 per run**, i.e. capped at 45 km). Plus chests are recorded during the run based on your membership status at that time, but **your subscription must still be active at the moment you open/claim them** — if it has lapsed by then, those Plus chests are not granted. This **accelerates** how quickly you obtain equipment and materials.
 - **Mounts / pets** (obtained with diamonds; earlier one-time purchases remain valid): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
-- **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins and check-ins, running, walking, the collection codex, inviting friends, the monthly RunQuest Plus grant, season settlement, and season rank rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
+- **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins and check-ins, running, walking, the collection codex, inviting friends, the daily RunQuest Plus grant, season settlement, and season rank rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
 
 **What we commit not to do:**
 
