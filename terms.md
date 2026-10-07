@@ -46,8 +46,9 @@ RunQuest 的付费内容主要提供运动洞察、便利性、复盘、收藏�
 **付费带来的优势（明确披露）：**
 
 - **RunQuest Plus 订阅**：在同一关卡内每连续跑满 1.5 公里，额外获得 1 个高级宝箱（**单场跑步最多 30 个**，即 45 公里封顶）。会员宝箱在跑步时按你当时的会员状态记录，但**在开箱／领取那一刻你的订阅仍须有效**——若届时订阅已失效，该部分会员宝箱不予发放。这会**加快**装备与材料的获取速度。
+- **RunQuest Plus 钻石**：订阅有效期间每日 3 个钻石，在当前计费周期内按天累积，可在「每日」页随时一次领取；进入下一个计费周期（续订）后，上一周期未领取的天数不再累积；订阅失效后不可领取。自 1.3 版起此机制取代原「每月 30 个钻石信」，1.3 之前已收到的月信仍可领取。**退款**：若订阅交易被 Apple 撤销或退款，该计费周期内已领取的 Plus 钻石将从你的余额扣回（余额可能因此为负，之后获得的钻石先行抵扣）。
 - **坐骑 / 宠物**（用钻石兑换；此前的一次性购买仍然有效）：坐骑使结算金币 +10%；宠物使每个宝箱额外有约 10% 的独立概率补出一个同档宝箱（期望约 +10%，**并非必得**）。
-- **钻石**：可用现金购买钻石包，也可通过每日登录与签到、跑步、走路、收集图鉴、邀请好友、RunQuest Plus 每日领取、赛季结算与赛季名次奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
+- **钻石**：可用现金购买钻石包，也可通过每日登录与签到、跑步、走路、收集图鉴、邀请好友、RunQuest Plus 每日钻石（见上）、赛季结算与赛季名次奖励获得。钻石只能兑换指定的时装和上述坐骑 / 宠物，**不能**兑换装备、经验、宝箱或跑步进度，也**不提供**随机抽取。
 
 **我们承诺不做的事：**
 
@@ -94,6 +95,11 @@ RunQuest 的宝箱**不能用现金购买**（见第 6 节）。为保持透明�
 - 用钻石兑换的时装和宠物不能换回钻石。
 - 钻石和其他游戏进度一样保存在设备本地（并与配对的 Apple Watch 同步）。第 9 条所述的本地数据丢失风险同样适用于钻石，包括通过购买获得的钻石；消耗型购买无法通过「恢复购买」找回。
 - 本条不影响你所在地法律赋予的消费者权利。
+
+**限时活动奖励**
+
+- 限时活动奖励（如节日限定外观）仅在活动期间通过跑步获得，不出售，也不可通过随机掉落或订阅获得；活动结束后，已获得的奖励保留。
+- 活动奖励为虚拟物品，无现金价值，不可转让或兑现。
 
 **赛季名次奖励（活动规则）**
 
@@ -179,8 +185,9 @@ RunQuest's paid content primarily provides workout insights, convenience, review
 **Advantages that paying provides (explicitly disclosed):**
 
 - **RunQuest Plus subscription**: for every continuous 1.5 km run within the same stage, you receive 1 additional premium chest (**capped at 30 per run**, i.e. capped at 45 km). Plus chests are recorded during the run based on your membership status at that time, but **your subscription must still be active at the moment you open/claim them** — if it has lapsed by then, those Plus chests are not granted. This **accelerates** how quickly you obtain equipment and materials.
+- **RunQuest Plus diamonds**: 3 diamonds per day while your subscription is active. They accumulate day by day within the current billing period and can be claimed all at once at any time on the Daily screen; once the next billing period begins (after renewal), unclaimed days from the previous period no longer accumulate; they cannot be claimed after the subscription lapses. From version 1.3 this replaces the former "30 diamonds per month" mail; monthly mails received before 1.3 can still be claimed. **Refunds**: if a subscription transaction is revoked or refunded by Apple, Plus diamonds already claimed in that billing period are deducted from your balance (the balance may become negative; diamonds you earn afterwards are applied to the shortfall first).
 - **Mounts / pets** (obtained with diamonds; earlier one-time purchases remain valid): mounts grant +10% settlement gold; pets give each chest an independent ~10% chance to yield one extra chest of the same tier (approximately +10% on average, **not guaranteed**).
-- **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins and check-ins, running, walking, the collection codex, inviting friends, the daily RunQuest Plus grant, season settlement, and season rank rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
+- **Diamonds**: diamond packs can be bought with money, and diamonds can also be earned through daily logins and check-ins, running, walking, the collection codex, inviting friends, daily RunQuest Plus diamonds (see above), season settlement, and season rank rewards. Diamonds can only be exchanged for specific cosmetic outfits and the mounts / pets above. They **cannot** be exchanged for equipment, XP, chests, or running progress, and there are **no** random draws.
 
 **What we commit not to do:**
 
@@ -227,6 +234,11 @@ Equipment, cosmetics, titles, pets, chests, card packs, season records, and othe
 - Outfits and pets obtained with diamonds cannot be exchanged back for diamonds.
 - Like other game progress, diamonds are stored on your device (and synced with a paired Apple Watch). The local data loss risks described in section 9 also apply to diamonds, including purchased diamonds; consumable purchases cannot be recovered through "Restore Purchases."
 - This section does not affect consumer rights you have under applicable local law.
+
+**Limited-time event rewards**
+
+- Limited-time event rewards (such as holiday-exclusive cosmetics) can only be earned by running during the event period; they are not sold and cannot be obtained through random drops or subscriptions. Rewards already earned are kept after the event ends.
+- Event rewards are virtual items with no cash value and cannot be transferred or redeemed.
 
 **Season rank rewards (event rules)**
 
