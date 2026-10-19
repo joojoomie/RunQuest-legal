@@ -5,7 +5,7 @@ permalink: /support/
 
 # 跑步英雄传（RunQuest）支持 / Support
 
-_Effective date / 生效日期: 2026-07-10_
+_Effective date / 生效日期: 2026-10-20_
 
 ## 中文
 
@@ -24,7 +24,9 @@ _Effective date / 生效日期: 2026-07-10_
 
 我们会尽量回复支持邮件，但回复时间可能受时区、App Store 审核、设备问题复杂度和邮件量影响。购买、退款和订阅账单由 Apple 处理，相关问题可能需要通过 Apple 支持完成。
 
-你发来的支持邮件（邮箱地址、内容与附件）如何被使用、保留多久、如何请求删除，见[隐私政策第 10 条](/)。
+你发来的支持邮件（邮箱地址、内容与附件）如何被使用、保留多久、如何请求删除，见[隐私政策第 11 条](/)。
+
+**举报与社区规则**：举报违规昵称或好友，可在 App 内长按对应请求或好友选择「举报」，或发邮件至上述邮箱并附上对方好友码；举报会在 48 小时内处理（上面的一般回复时间不适用于举报）。社区规则见[使用条款第 15 条](/terms/)，好友资料的隐私说明见[隐私政策第 8 条](/)。
 
 ## English
 
@@ -43,7 +45,9 @@ RunQuest does not provide medical advice. If you have questions about running, h
 
 We try to respond to support emails, but response times may vary depending on time zone, App Review timing, device-specific complexity, and email volume. Purchases, refunds, and subscription billing are handled by Apple and may need to be resolved through Apple Support.
 
-For how your support email (address, content, attachments) is used, how long it is kept, and how to request deletion, see [Privacy Policy, section 10](/).
+For how your support email (address, content, attachments) is used, how long it is kept, and how to request deletion, see [Privacy Policy, section 11](/).
+
+**Reports & community rules**: to report a nickname or player, long-press the request or friend in the App and choose "Report", or email the address above with their friend code. Reports are handled within 48 hours (the general response times above do not apply to reports). See [Terms of Use, section 15](/terms/) for the community rules and [Privacy Policy, section 8](/) for friend-profile privacy.
 
 ---
 
