@@ -5,7 +5,7 @@ permalink: /terms/
 
 # 跑步英雄传（RunQuest）使用条款 / Terms of Use
 
-_Effective date / 生效日期: 2026-10-20_
+_Draft for RunQuest 1.3 — effective date to be confirmed before publication / RunQuest 1.3 草稿——生效日期待发布前核定_
 
 ## 中文
 
@@ -95,12 +95,6 @@ RunQuest 的宝箱**不能用现金购买**（见第 6 节）。为保持透明�
 - 用钻石兑换的时装和宠物不能换回钻石。
 - 钻石和其他游戏进度一样保存在设备本地（并与配对的 Apple Watch 同步）。第 9 条所述的本地数据丢失风险同样适用于钻石，包括通过购买获得的钻石；消耗型购买无法通过「恢复购买」找回。
 - 本条不影响你所在地法律赋予的消费者权利。
-
-**限时活动奖励**
-
-- 限时活动奖励（如节日限定外观）仅在活动期间通过本 App 记录的跑步或走路获得，不出售，也不可通过随机掉落或订阅获得；活动结束后，已获得的奖励保留。
-- 2026 年万圣节活动：活动期为 10 月 24 日至 11 月 2 日共 10 个游戏日（每个游戏日从设备当地时间 05:00 开始，即 10 月 24 日 05:00 至 11 月 3 日 05:00）。在 iPhone 或 Apple Watch 上的本 App 中开始并完成户外出征，起跑时间在活动期内的跑步或走路累计满 10 km，可获得南瓜法师帽（每人一次）。距离以本 App 结算记录的冒险距离为准，与出征页的活动进度一致（慢速高消耗时可能按能量消耗折算，与 GPS 读数略有差异）；每日步数奖励以及模拟或自报的里程不计入。奖励通过 App 信件发放：活动期内起跑但稍后才同步的 Apple Watch 跑步，只要在 11 月 9 日这个游戏日结束前（即 11 月 10 日 05:00 前）打开 iPhone 上的本 App 完成同步，仍会计入并发放奖励信；此后不再发放新的奖励信，已收到的奖励信可随时领取。本活动由 RunQuest 开发者举办，Apple 不是赞助方，也不以任何方式参与本活动。
-- 活动奖励为虚拟物品，无现金价值，不可转让或兑现。
 
 **赛季名次奖励（活动规则）**
 
@@ -242,12 +236,6 @@ Equipment, cosmetics, titles, pets, chests, card packs, season records, and othe
 - Outfits and pets obtained with diamonds cannot be exchanged back for diamonds.
 - Like other game progress, diamonds are stored on your device (and synced with a paired Apple Watch). The local data loss risks described in section 9 also apply to diamonds, including purchased diamonds; consumable purchases cannot be recovered through "Restore Purchases."
 - This section does not affect consumer rights you have under applicable local law.
-
-**Limited-time event rewards**
-
-- Limited-time event rewards (such as holiday-exclusive cosmetics) can only be earned through runs or walks recorded in the App during the event period; they are not sold and cannot be obtained through random drops or subscriptions. Rewards already earned are kept after the event ends.
-- Halloween 2026: the event runs for 10 game days, October 24–November 2 (each game day begins at 05:00 device-local time, i.e. October 24 05:00 to November 3 05:00). Start and finish outdoor adventures in the App on iPhone or Apple Watch; runs or walks started during the event that add up to 10 km earn the Pumpkin Wizard Hat (once per player). Distance is the adventure distance recorded at settlement in the App, matching the event progress shown on the adventure screen (slow, high-effort sessions may be credited by energy expenditure and can differ slightly from GPS readings); daily step rewards and simulated or self-reported distance do not count. The reward is delivered as an in-App mail: Apple Watch runs started during the event but synced later still count, provided you open the App on iPhone to sync before the end of the November 9 game day (before November 10, 05:00); no new reward mail is sent after that, and a reward mail already received can be claimed at any time. This event is run by the RunQuest developer; Apple is not a sponsor of, and is not involved in, this event in any way.
-- Event rewards are virtual items with no cash value and cannot be transferred or redeemed.
 
 **Season rank rewards (event rules)**
 

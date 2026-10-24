@@ -5,7 +5,7 @@ permalink: /support/
 
 # 跑步英雄传（RunQuest）支持 / Support
 
-_Effective date / 生效日期: 2026-10-20_
+_Draft for RunQuest 1.3 — effective date to be confirmed before publication / RunQuest 1.3 草稿——生效日期待发布前核定_
 
 ## 中文
 
